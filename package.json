@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-theme-mustom-sample",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Template for vuepress-theme-mustom users",
+  "scripts": {
+    "dev": "vuepress dev $docs",
+    "build": "vuepress build $docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinyaoMa/vuepress-theme-mustom-sample.git"
+  },
+  "author": "jinyaoMa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jinyaoMa/vuepress-theme-mustom-sample/issues"
+  },
+  "homepage": "https://github.com/jinyaoMa/vuepress-theme-mustom-sample#readme",
+  "devDependencies": {
+    "@jinyaoma/vuepress-theme-mustom": "^1.1.2-20201103.2218"
+  }
+}
